@@ -1,0 +1,17 @@
+-Main grid menu does not show number of current viewers or channels for each game.
+-Endless Scroll is nice.
+-Colors are consitent, and app has nice simple look.
+-Home screen could use more information about the app or the service for first time users.
+_Again, after selection of game, clean interface but lack of information. Here we do get viewer numbers and a channel title, but no information about the channel itself.
+-Inside the channel screen: Bad screen ratio, too much chat, too little video. Chat and stream.
+-Stream auto-plays. Never preferable.
+-Chat automatically begins scrolling too. As twitch chat can be fast, and hectic, I think it would be preferable to have channel info under the video player (as in the desktop client) with the option to tab over to chat instead.
+-Needs option to make video larger without having to flip phone to horizontal mode.
+-I do like the built in AirPlay option in the video window.
+-Broadcast titles should be automatic not optional. Doesn't take much space, but can convey a lot of information about a stream.
+-Maybe have more information like game being played, event title etc. pop up on first tap on channel, then second tap bring you to channel itself.
+-Put search bar in main header, not sidebar menu. This is often the first thing people want to use when coming to Twitch because they have a specific stream in mind.
+-Put followed/favorited channels at the homescreen or in the sidebar menu above promoted games and such.
+-No horizontal option at game/channel menus.
+-No options menu at homescreen/ side-menu.
+-No stream management options from app? Why can't I moderate my own stream/chat when streaming from second screen?
